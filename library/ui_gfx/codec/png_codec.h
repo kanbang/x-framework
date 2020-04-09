@@ -7,6 +7,7 @@
 #include <vector>
 
 #include "base/basic_types.h"
+#include <string>
 
 class SkBitmap;
 

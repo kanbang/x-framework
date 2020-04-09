@@ -5,6 +5,7 @@
 #include <ostream>
 
 #include "insets.h"
+#include <algorithm>
 
 namespace
 {

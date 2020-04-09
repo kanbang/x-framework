@@ -8,6 +8,8 @@
 
 #include "string16.h"
 
+#include <algorithm>
+
 namespace base
 {
 

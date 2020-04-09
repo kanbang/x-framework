@@ -9,6 +9,7 @@
 #include "base/logging.h"
 #include "base/memory/singleton.h"
 #include "base/synchronization/lock.h"
+#include <algorithm>
 
 #pragma comment(lib, "dbghelp.lib")
 

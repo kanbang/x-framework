@@ -5,6 +5,7 @@
 #include <ostream>
 
 #include "base/logging.h"
+#include <algorithm>
 
 namespace ui
 {
